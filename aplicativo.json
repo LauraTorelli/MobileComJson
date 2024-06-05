@@ -1,0 +1,42 @@
+[
+  {
+    "campeonato": "Paulistão",
+    "partida": "Corinthians x Palmeiras",
+    "resultado": "2 - 1"
+  },
+  {
+    "campeonato": "Paulistão",
+    "partida": "São Paulo x Santos",
+    "resultado": "0 - 3"
+  },
+  {
+    "campeonato": "Carioca",
+    "partida": "Flamengo x Fluminense",
+    "resultado": "1 - 1"
+  },
+  {
+    "campeonato": "Carioca",
+    "partida": "Vasco x Botafogo",
+    "resultado": "2 - 0"
+  },
+  {
+    "campeonato": "Brasileirão",
+    "partida": "Palmeiras - SP x Internacional - RS",
+    "resultado": "1 - 1"
+  },
+  {
+    "campeonato": "Brasileirão",
+    "partida": "Fortaleza - CE x Goiás - GO",
+    "resultado": "2 - 1"
+  },
+  {
+    "campeonato": "Brasileirão",
+    "partida": "Red Bull Bragantino - SP x Corinthians - SP",
+    "resultado": "4 - 3"
+  },
+  {
+    "campeonato": "Brasileirão",
+    "partida": "Cruzeiro Saf - MG x Coritiba S.a.f. - PR",
+    "resultado": "5 - 2"
+  }
+]
